@@ -12,5 +12,9 @@
 <body>
     <header>
         <h1>Indomaret RPL4</h1>
+        <nav aria-label="Navigasi utama">
+            <a href="/pages/dashboard.php">Dashboard</a>
+            <a href="/pages/products/list.php">Produk</a>
+        </nav>
     </header>
     <main>
